@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\Seminar_1_Task_1.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\Seminar_1_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\Seminar_1_Task_1.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\Seminar_1_Task_1.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\Seminar_1_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\bin\Debug\net7.0\Seminar_1_Task_1.exe
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\bin\Debug\net7.0\Seminar_1_Task_1.deps.json
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\bin\Debug\net7.0\Seminar_1_Task_1.runtimeconfig.json
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\bin\Debug\net7.0\Seminar_1_Task_1.dll
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\bin\Debug\net7.0\Seminar_1_Task_1.pdb
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\Seminar_1_Task_1.dll
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\refint\Seminar_1_Task_1.dll
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\Seminar_1_Task_1.pdb
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\Seminar_1_Task_1.genruntimeconfig.cache
+C:\Users\Антон\Desktop\Seminar_1\Seminar_1_Task_1\obj\Debug\net7.0\ref\Seminar_1_Task_1.dll
