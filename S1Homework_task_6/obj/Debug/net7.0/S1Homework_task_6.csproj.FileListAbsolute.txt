@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\S1Homework_task_6.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\S1Homework_task_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\S1Homework_task_6.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\S1Homework_task_6.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\S1Homework_task_6.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\bin\Debug\net7.0\S1Homework_task_6.exe
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\bin\Debug\net7.0\S1Homework_task_6.deps.json
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\bin\Debug\net7.0\S1Homework_task_6.runtimeconfig.json
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\bin\Debug\net7.0\S1Homework_task_6.dll
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\bin\Debug\net7.0\S1Homework_task_6.pdb
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\S1Homework_task_6.dll
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\refint\S1Homework_task_6.dll
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\S1Homework_task_6.pdb
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\S1Homework_task_6.genruntimeconfig.cache
+C:\Users\Антон\Desktop\Seminar_1\S1Homework_task_6\obj\Debug\net7.0\ref\S1Homework_task_6.dll
